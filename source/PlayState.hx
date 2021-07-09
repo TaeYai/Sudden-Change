@@ -9,6 +9,7 @@ import Replay.Ana;
 import Replay.Analysis;
 #if cpp
 import webm.WebmPlayer;
+import llua.State;
 #end
 import flixel.input.keyboard.FlxKey;
 import haxe.Exception;
