@@ -31,7 +31,7 @@ import Discord.DiscordClient;
 #if cpp
 import sys.thread.Thread;
 #end
-//test github
+//test github-webhook
 
 using StringTools;
 
